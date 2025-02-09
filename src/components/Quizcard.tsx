@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 // Assuming you have quizzdata defined properly
 
 import { quizzdata } from "../utilities/Data"; // Assuming you have quizzdata defined properly
-
+//const quizzdata = require("../utilities/Data.js");
 
 interface Question {
   question: string;
