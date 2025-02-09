@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-<<<<<<< HEAD
-import { quizzdata } from "../utilities/Data.js"; // Assuming you have quizzdata defined properly
-=======
+
+// Assuming you have quizzdata defined properly
+
 import { quizzdata } from "../utilities/Data"; // Assuming you have quizzdata defined properly
->>>>>>> 81f3905 (Your commit message here)
+
 
 interface Question {
   question: string;
